@@ -1,10 +1,7 @@
 # ViSenze-Fashion-Attribute-Extraction
 This python script converts an <ins><a href="https://www.dropbox.com/s/qm7h8fwujnpq15t/example_input.csv?dl=0" download="example_input.csv">input tagging file(csv)</ins>
 
-scheduled job on Visenze datafeed integration through API /insert method. It does the following: 
-1. Clean image urls in the datafeed (.csv) by removing space
-2. Validate image urls in the datafeed (.csv) by checking response
-3. Batch insert valid image urls for indexing on Visenze dashboard server 
+
 
 Steps to follow before executing the script
 1. Prepare product catalogue files in CSV format, including im_name and im_url (mandatory). The details for the CSV file is below:
