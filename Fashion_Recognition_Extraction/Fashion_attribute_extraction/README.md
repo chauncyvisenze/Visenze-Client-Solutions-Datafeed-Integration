@@ -1,5 +1,7 @@
-# Visenze-Client-Solutions-Datafeed-Integration
-This python script creates a scheduled job on Visenze datafeed integration through API /insert method. It does the following: 
+# ViSenze-Fashion-Attribute-Extraction
+This python script converts an <ins>input tagging file(csv)</ins>
+
+scheduled job on Visenze datafeed integration through API /insert method. It does the following: 
 1. Clean image urls in the datafeed (.csv) by removing space
 2. Validate image urls in the datafeed (.csv) by checking response
 3. Batch insert valid image urls for indexing on Visenze dashboard server 
