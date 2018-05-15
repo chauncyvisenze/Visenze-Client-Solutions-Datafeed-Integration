@@ -1,5 +1,5 @@
 # ViSenze-Fashion-Attribute-Extraction
-This python script converts an <ins><a href="https://www.dropbox.com/s/qm7h8fwujnpq15t/example_input.csv?dl=0" download="example_input.csv">input tagging file(csv)</ins></a>
+This python script converts an <ins><a href="https://www.dropbox.com/s/qm7h8fwujnpq15t/example_input.csv?dl=1" download="example_input.csv">input tagging file(csv)</ins></a>
 
 scheduled job on Visenze datafeed integration through API /insert method. It does the following: 
 1. Clean image urls in the datafeed (.csv) by removing space
