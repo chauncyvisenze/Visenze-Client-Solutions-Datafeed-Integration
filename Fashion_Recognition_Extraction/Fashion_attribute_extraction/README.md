@@ -19,15 +19,15 @@ Steps to follow before executing the script
 3. Install ViSearch Python SDK
 ```bash
 
-$ pip install pandas
-$ pip install argparse
+$ pip3 install pandas
+$ pip3 install argparse
 
 ```
 
 Running the script
 ```bash
 
-$ python3 ~/dir/Visenze_insert_API.py -i ~/dir/your_datafeed_csv_filename -u your_Visenze_dashboard_admin_Access_Key -p your_Visenze_dashboard_admin_Secret_Key  
+$ python3 ~/dir/Fashion_attribute_extraction.py -i ~/dir/your_input_fashion_attribute_filename -o ~/dir/your_output_fashion_attribute_filename
 
 ```
 
