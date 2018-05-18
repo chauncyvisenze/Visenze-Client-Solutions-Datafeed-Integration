@@ -24,14 +24,14 @@ $ pip3 install argparse
 
 ```
 
-Running the script
+Running <i>Fashion_attribute_extraction.py</i>
 ```bash
 
 $ python3 ~/dir/Fashion_attribute_extraction.py -i ~/dir/your_input_fashion_attribute_filename -o ~/dir/your_output_fashion_attribute_filename
 
 ```
 
-Integrating datafeed with fashion attribute tagging values
+Integrating your datafeed with fashion attribute tagging
 
 Data index API
 ```bash
