@@ -14,7 +14,7 @@ Steps to follow before executing the script
 2. Upload product catalogue files on ViSenze's dashboard (Your Images -> Upload). Please remember to check Yes:
 ```bash
 <img src="https://e27.co/wp-content/uploads/2014/02/VisenzeHead.png" alt="ViSenze" width="250" height="177">
-
+</img>
 ```
 
 3. Install ViSearch Python SDK
