@@ -9,7 +9,7 @@ With <i>Fashion_attribute_extraction.py</i>, we are able to:
 3. Combine the input fashion attribute file with fashion details and output the master file in CSV format 
 
 Steps to follow before executing the script
-1. Prepare product catalogue files in CSV format, including im_name and im_url (mandatory). A sample is <ins><a href="https://www.dropbox.com/s/92a4o6ax8pbur1i/product_catalogue_template.csv?dl=1" download="product_catalogue_template.csv">HERE.</ins></a> The details can be found:http://developers.visenze.com/setup/#Upload-your-datafeed
+1. Prepare product catalogue files in CSV format, including im_name and im_url (mandatory). A sample is <ins><a href="https://www.dropbox.com/s/92a4o6ax8pbur1i/product_catalogue_template.csv?dl=1" download="product_catalogue_template.csv">HERE.</ins></a> The details can be found: http://developers.visenze.com/setup/#Upload-your-datafeed
 
 2. Configure schema fields on Visenze's dashboard (Your Images -> Config) before running the script. The details can be found below: 
 http://developers.visenze.com/setup/#Configure-schema-fields
