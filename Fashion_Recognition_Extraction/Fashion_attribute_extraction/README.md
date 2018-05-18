@@ -16,7 +16,7 @@ Steps to follow before executing the script
 <img src="https://storage.googleapis.com/visenze-test-890215/Upload.JPG" alt="Tag uploaded product catalogue files" class="center">
 
 
-3. Install ViSearch Python SDK
+3. Install Python library
 ```bash
 
 $ pip3 install pandas
