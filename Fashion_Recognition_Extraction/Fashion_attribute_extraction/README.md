@@ -19,7 +19,8 @@ Steps to follow before executing the script
 3. Install ViSearch Python SDK
 ```bash
 
-$ pip install visearch
+$ pip install pandas
+$ pip install argparse
 
 ```
 
