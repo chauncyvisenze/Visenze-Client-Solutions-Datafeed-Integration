@@ -13,7 +13,7 @@ Steps to follow before executing the script
 
 2. Upload product catalogue files on ViSenze's dashboard (Your Images -> Upload). Please remember to check Yes:
 
-<img src="https://storage.googleapis.com/visenze-test-890215/Upload.JPG" alt="Tag uploaded product catalogue files" align="middle" width="800" height="45">
+<img src="https://storage.googleapis.com/visenze-test-890215/Upload.JPG" alt="Tag uploaded product catalogue files" class="center" width="1000" height="50">
 
 
 3. Install ViSearch Python SDK
