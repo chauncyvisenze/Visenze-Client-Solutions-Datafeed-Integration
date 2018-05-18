@@ -13,7 +13,7 @@ Steps to follow before executing the script
 
 2. Upload product catalogue files on ViSenze's dashboard (Your Images -> Upload). Please remember to check Yes:
 
-<img src="https://www.dropbox.com/s/5z76qf85d9qzxg2/Upload.JPG?dl=0" alt="Tag uploaded datafeed file" class="center">
+<img src="https://www.dropbox.com/s/5z76qf85d9qzxg2/Upload.JPG?dl=0" alt="Tag uploaded datafeed file">
 
 
 3. Install ViSearch Python SDK
