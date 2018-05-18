@@ -1,5 +1,5 @@
 # ViSenze-Fashion-Attribute-Extraction
-This python script converts an <ins><a href="https://www.dropbox.com/s/qm7h8fwujnpq15t/example_input.csv?dl=1" download="example_input.csv">input fashion attribute file(csv)</ins></a> into a <ins><a href="https://www.dropbox.com/s/6s0bbq2618p1flf/fashion_attribute_example_output.csv?dl=1" download="fashion_attribute_example_output.csv">cleaned output file(csv)</ins></a> It does the following: 
+This python script converts an <ins><a href="https://www.dropbox.com/s/qm7h8fwujnpq15t/example_input.csv?dl=1" download="example_input.csv">input fashion attribute file from ViSenze dashboard</ins></a> into a <ins><a href="https://www.dropbox.com/s/6s0bbq2618p1flf/fashion_attribute_example_output.csv?dl=1" download="fashion_attribute_example_output.csv">cleaned csv file</ins></a> It does the following: 
 1. Read the input tagging file in csv format created from Visenze dashboard
 2. Extract fashion attributes from the input tagging file
 3. Combine the original datafeed with extracted fashion attributes and output the master file in csv format 
