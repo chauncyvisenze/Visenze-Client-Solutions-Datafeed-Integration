@@ -5,8 +5,8 @@ This python script converts an <ins><a href="https://www.dropbox.com/s/qm7h8fwuj
 ```
 With <i>Fashion_attribute_extraction.py</i>, we are able to:
 1. Read the input fashion attribute file
-2. Extract fashion attribute
-3. Combine the original datafeed with extracted fashion attributes and output the master file in csv format 
+2. Extract fashion attributes as column headers and fashion details as cell contents
+3. Combine the input fashion attribute file with fashion details and output the master file in csv format 
 
 Steps to follow before executing the script
 1. Prepare product catalogue files in CSV format, including im_name and im_url (mandatory). The details for the CSV file is below:
