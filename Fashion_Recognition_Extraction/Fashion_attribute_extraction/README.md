@@ -31,10 +31,14 @@ $ python3 ~/dir/Fashion_attribute_extraction.py -i ~/dir/your_input_fashion_attr
 
 ```
 
-Scheduling an API /insert cronjob at 10am everyday 
+Integrating datafeed with fashion attribute tagging values
+
+Data index API
 ```bash
-crontab -e
+$ python3 ~/dir/Visenze_insert_API.py -i ~/dir/your_output_fashion_attribute_filename -u your_Visenze_dashboard_admin_Access_Key -p your_Visenze_dashboard_admin_Secret_Key    
 ```
+FTP_upload
 ```bash
-0 10 * * * python3 ~/dir/Visenze_insert_API.py -i ~/dir/your_datafeed_csv_filename -u your_Visenze_dashboard_admin_Access_Key -p your_Visenze_dashboard_admin_Secret_Key  
+$ bash ~/dir/datafeed_ftp_sample.sh --upload ~/dir/your_upload_folder_name --backup ~/dir/your_backup_folder_name --ftp ~/dir/your_ftp_folder_name --username XXX --password XXX --ftp_address XXX 
 ```
+
